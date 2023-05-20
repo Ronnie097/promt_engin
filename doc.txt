@@ -1,1 +1,12 @@
 added values
+The data types used in prompt engineering depend on the specific implementation and the programming language or framework being utilized. In the context of working with language models like GPT, the primary data type typically used is text.
+
+Text data can be represented as strings in most programming languages. It encompasses the prompts, instructions, and any additional context or constraints provided to guide the model's output. For example, a prompt could be a sentence or a paragraph specifying the desired behavior or outcome.
+
+In addition to the prompt itself, other data types may also be involved in the prompt engineering process. These can include:
+
+Example Responses: These are pre-defined or desired sample answers that can be provided alongside the prompt. Example responses can serve as a reference for the model to generate outputs that align with the desired format or content.
+
+Constraints: Constraints are additional instructions or limitations imposed on the generated output. They can be used to enforce specific requirements or prevent the model from producing undesirable responses. Constraints can be expressed as text strings or structured data, depending on the implementation.
+
+Contextual Information: In some cases, contextual information such as user preferences, historical data, or system states might be utilized to influence the prompt engineering process. This information can be represented in various data types, including text, numerical values, or structured data.
